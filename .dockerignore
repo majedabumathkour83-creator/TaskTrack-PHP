@@ -1,0 +1,7 @@
+**
+!public/
+!public/**
+!src/
+!src/**
+!Dockerfile
+!.dockerignore
